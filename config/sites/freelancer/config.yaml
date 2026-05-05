@@ -1,0 +1,50 @@
+background_color: '#3a85e6'
+base: 'https://freelancer.ddev.site'
+dependencies:
+  - nitsan-ns-basetheme/ns_basetheme
+display: standalone
+enabled: false
+entry_point: /
+icon: /fileadmin/pwa/pwa.png
+icon_144: /fileadmin/pwa/pwa.png
+icon_144_type: image/png
+icon_192: /fileadmin/pwa/pwa-192.png
+icon_192_type: image/png
+icon_512: /fileadmin/pwa/pwa-512.png
+icon_512_type: image/png
+languages:
+  -
+    title: English
+    enabled: true
+    languageId: 0
+    base: /
+    locale: en_US
+    navigationTitle: EN
+    flag: gb
+    hreflang: ''
+    websiteTitle: ''
+  -
+    title: German
+    enabled: true
+    locale: de_DE
+    hreflang: de_DE
+    base: /de/
+    websiteTitle: ''
+    navigationTitle: DE
+    fallbackType: fallback
+    fallbacks: '0'
+    flag: de
+    languageId: 1
+name: 'TYPO3 Agency'
+rootPageId: 1
+scope: /
+short_name: NITSAN
+ss_icon_desktop: /fileadmin/pwa/screenshot.jpg
+ss_icon_desktop_type: image/jpg
+ss_icon_mobile: /fileadmin/pwa/screenshot-mobile.jpg
+ss_icon_mobile_type: image/jpg
+ss_icon_size_desktop: 2880x2880
+ss_icon_size_mobile: 2880x2880
+start_url: /
+theme_color: '#3a85e6'
+websiteTitle: 'Sarah McCarthy'

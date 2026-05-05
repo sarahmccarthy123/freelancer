@@ -1,0 +1,48 @@
+.DS_Store
+.idea
+nbproject
+/var/*
+!/var/labels
+/vendor
+/public/*
+!/public/.htaccess
+.env*
+auth.json
+/public/index.php
+/public/_assets/
+/public/fileadmin/
+/public/typo3/
+/public/typo3temp/
+/var/
+/vendor/
+/config/system/credentials.php
+
+# TYPO3 system folders
+/var/
+/vendor/
+/public/typo3temp/
+/public/uploads/
+/public/fileadmin/
+
+# Environment and secrets
+.env
+
+# Node.js build tools
+/node_modules/
+/dist/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+/.phpdoc/
+/tarballs/
+/.ddev/
+.gitkeep
+.htaccess
+*.log
