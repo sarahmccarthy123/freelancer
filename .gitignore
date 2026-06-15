@@ -16,6 +16,7 @@ auth.json
 /var/
 /vendor/
 /config/system/credentials.php
+/config/system/settings.php
 
 # TYPO3 system folders
 /var/
